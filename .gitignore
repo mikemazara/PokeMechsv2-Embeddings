@@ -1,0 +1,5 @@
+# ignore the pdfs directory
+pdfs/
+
+# ignore .venv directory
+.venv/
